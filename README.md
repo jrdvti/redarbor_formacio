@@ -9,7 +9,7 @@ Aquí trobareu:
 
 1) Entreu a la carpeta [docker](/docker/) i seguiu aquest ordre
 
-  - Mireu com funciona el desplegament d'Elastic en Docker
+  - Mireu com funciona el [desplegament d'Elastic](/docker/desplegament_docker.md) en Docker
 
   - Utilitzeu el [docker-compose](/docker/docker-compose.yml) com surt en el punt anterior
   
