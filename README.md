@@ -8,8 +8,11 @@ Aquí trobareu:
 ## Com començar a moure's
 
 1) Entreu a la carpeta [docker](/docker/) i seguiu aquest ordre
-  a) Mireu com funciona el desplegament d'Elastic en Docker
-  b) Utilitzeu el [docker-compose](/docker/docker-compose.yml) com surt en el punt anterior
-  c) Mireu el [document per executar](/docker/indicacions_docker.sh) el contenidor
+
+  - Mireu com funciona el desplegament d'Elastic en Docker
+
+  - Utilitzeu el [docker-compose](/docker/docker-compose.yml) com surt en el punt anterior
+  
+  - Mireu el [document per executar](/docker/indicacions_docker.sh) el contenidor
 
 2) Entreu a la carpeta [datasets](/datasets/) per tobar els arxius per indexar a Elastic
