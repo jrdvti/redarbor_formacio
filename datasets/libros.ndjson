@@ -75,4 +75,5 @@
 {"titulo": "Terra Nostra", "autor": "Carlos Fuentes", "año": 1975, "precio": 18.00, "idioma_original": "Español", "reseña": {"texto": "Un relato histórico y fantástico a la vez.", "nota": 4}}
 {"titulo": "El túnel", "autor": "Ernesto Sabato", "año": 1948, "precio": 11.10, "idioma_original": "Español", "reseña": {"texto": "Un relato psicológico de obsesión y crimen.", "nota": 4}}
 {"titulo": "Sobre héroes y tumbas", "autor": "Ernesto Sabato", "año": 1961, "precio": 13.50, "idioma_original": "Español", "reseña": {"texto": "Explora la angustia y la desesperación humanas.", "nota": 5}}
+
 {"titulo": "El amor en los tiempos del cólera", "autor": "Gabriel García Márquez", "año": 1985, "precio": 15.80, "idioma_original": "Español", "reseña": {"texto": "Historia de amor que atraviesa décadas.", "nota": 4}}
