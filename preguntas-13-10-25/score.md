@@ -13,7 +13,7 @@ Es decir:
 
  1) Dime los libros escritos por "Cervantes"
 ~~~sql
-SELECT * FROM libros **WHERE** autor = "Cervantes";
+SELECT * FROM libros WHERE autor = "Cervantes";
 ~~~
 
 2) Dime los libros escritos por "Cortázar" entre 1940 y 1948
