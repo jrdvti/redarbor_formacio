@@ -16,3 +16,7 @@ Aquí trobareu:
   - Mireu el [document per executar](/docker/indicacions_docker.sh) el contenidor
 
 2) Entreu a la carpeta [datasets](/datasets/) per tobar els arxius per indexar a Elastic
+
+## PDF de la formació
+
+[Aquest](/redarbor_formacio/Formación ELK - Redarbor.pdf) es el ppt de la formació.
