@@ -19,4 +19,4 @@ Aquí trobareu:
 
 ## PDF de la formació
 
-[Aquest](Formación ELK - Redarbor.pdf) es el ppt de la formació.
+El trobareu a la pàgina principal del repositori.
