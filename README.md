@@ -19,4 +19,4 @@ Aquí trobareu:
 
 ## PDF de la formació
 
-[Aquest](/redarbor_formacio/Formación ELK - Redarbor.pdf) es el ppt de la formació.
+[Aquest](Formación ELK - Redarbor.pdf) es el ppt de la formació.
