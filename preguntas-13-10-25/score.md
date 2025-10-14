@@ -38,8 +38,9 @@ c) ¿Solo accedo a los datos mediante búsqueda?
 Más allá de las respuestas concretas a las preguntas **a** y **b**, nos centramos en la respuesta a la pregunta **c**:
 
 - Si la respuesta es **SÍ**:
- - Existen tipos de búsquedas que permiten asignar una puntuación concreta al score
-  - Script score
+
+> Existen tipos de búsquedas que permiten asignar una puntuación concreta al score
+>> Script score
   ~~~json
   {
     "query": {
@@ -52,7 +53,7 @@ Más allá de las respuestas concretas a las preguntas **a** y **b**, nos centra
     }
   }
   ~~~
-  - Function score
+ >> Function score
   ~~~json
   {
     "query": {
@@ -68,6 +69,7 @@ Más allá de las respuestas concretas a las preguntas **a** y **b**, nos centra
   ~~~
 
 - Si la respuesta es **NO**:
- - A nivel de configuración podemos añadir la puntuación del score que queramos
- - Esta configuración es **por índice**
- - Una buena guía para poder hacerlo: [Documentación](https://www.elastic.co/docs/reference/elasticsearch/index-settings/similarity)
+
+> A nivel de configuración podemos añadir la puntuación del score que queramos
+> Esta configuración es **por índice**
+> Una buena guía para poder hacerlo: [Documentación](https://www.elastic.co/docs/reference/elasticsearch/index-settings/similarity)
