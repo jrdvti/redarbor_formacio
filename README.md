@@ -20,3 +20,13 @@ Aquí trobareu:
 ## PDF de la formació
 
 El trobareu a la pàgina principal del repositori.
+
+## Resolució de problemes
+
+- Al llarg de les sessions s'han parlat de diversos temes
+
+- Hi ha dos carpetes __preguntas*__ on hi ha temes que s'han parlat en cada sessió
+
+## Informació extra
+
+- A la carpeta [info](/info/) teniu links que us puguin interessar
